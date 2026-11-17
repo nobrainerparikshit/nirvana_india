@@ -1,0 +1,3 @@
+Leaders of Today | leaders-of-today.png | https://www.leadersoftoday.com/images/logo-v2.png
+Aga Khan Foundation | aga-khan-canada.png | https://www.akfc.ca/wp-content/uploads/2017/02/logo.png
+Government of Canada | government-canada.svg | https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/sig-blk-en.svg
